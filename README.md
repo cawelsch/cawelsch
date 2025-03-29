@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 😄 Pronouns: she, her, hers
-- - 🌱 I’m currently learning how to create an LLM
+- 🌱 I’m currently learning how to create an LLM
 
 <!--
 **cawelsch/cawelsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
